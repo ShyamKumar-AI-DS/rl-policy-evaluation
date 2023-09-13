@@ -90,8 +90,9 @@ print_state_value_function(V2, P, n_cols=7, prec=5)
 ![image](https://github.com/ShyamKumar-AI-DS/rl-policy-evaluation/assets/93427182/d495d837-f98b-4d5b-9f46-c470e686cf2b)
 
 ### Conclusion
-<p align="center">
-![image](https://github.com/ShyamKumar-AI-DS/rl-policy-evaluation/assets/93427182/a3e945e0-683c-41ee-aa1e-a3d0ea3b39d9)
+
+![image](https://github.com/ShyamKumar-AI-DS/rl-policy-evaluation/assets/93427182/b1724486-92d8-41db-a746-4864ac02934f)
+
 
 
 
